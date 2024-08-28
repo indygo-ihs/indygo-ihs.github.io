@@ -19,6 +19,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    list-style: none; /* Remove bullet points */
 }
 
 .nav-list li {
@@ -34,7 +35,7 @@ body {
 }
 
 .nav-list a:hover {
-    background-color: #4b0082;
+    background-color: #575757;
 }
 
 .article-container {
